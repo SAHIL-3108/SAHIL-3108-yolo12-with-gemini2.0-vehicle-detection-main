@@ -42,7 +42,7 @@
 ## 📁 Project Structure
 
 ```plaintext
-├── yolov5/              # YOLO model files and weights
+├── yolov12/              # YOLO model files and weights
 ├── test2.py             # Main detection + tracking script
 ├── chek.py              # Alternate detection script
 ├── utils/               # Utility functions (e.g., tracking, speed calc)
